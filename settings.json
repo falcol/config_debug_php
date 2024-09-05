@@ -1,0 +1,4 @@
+"php.suggest.basic": true,
+"php.validate.enable": true,
+"php.validate.executablePath": "C:/wamp/bin/php/php7.1.33/php.exe",
+"php.debug.executablePath": "C:/wamp/bin/php/php7.1.33/php.exe",
